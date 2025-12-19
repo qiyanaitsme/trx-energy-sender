@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/abef0b80-f4e0-4024-b612-f9edc63df59b" />
+
 # TRX Energy Bot
 
 Телеграм-бот для продажи энергии TRON. Позволяет пользователям арендовать энергию для переводов USDT TRC-20 без комиссии.
@@ -72,4 +74,5 @@ SUPPORT_USERNAME=@твой_username
 - Баланс TRON кошелька
 - Бан/разбан юзеров
 - Изменение баланса
+
 - Рассылка
