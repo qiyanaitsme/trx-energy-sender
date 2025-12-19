@@ -1,0 +1,10 @@
+Кароче мозга не делай. Ищешь картинки и суешь сюда.
+1. main_menu.png
+2. buy_energy.png
+3. profile.png
+4. history.png
+5. check_energy.png
+6. payment.png
+7. success.png
+8. error.png
+9. contacts.png
